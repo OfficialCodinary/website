@@ -322,6 +322,10 @@ const hostingTutorials = {
   text: "Tutoriales",
   items: [
     {
+      text: "Servidor Privado Virtual (VPS)",
+      link: "/es/hosting/vps",
+    },
+    {
       text: "Deno Deploy",
       link: "/es/hosting/deno-deploy",
     },
@@ -338,10 +342,6 @@ const hostingTutorials = {
       link: "/es/hosting/cloudflare-workers-nodejs",
     },
     {
-      text: "Heroku",
-      link: "/es/hosting/heroku",
-    },
-    {
       text: "Fly",
       link: "/es/hosting/fly",
     },
@@ -350,20 +350,20 @@ const hostingTutorials = {
       link: "/es/hosting/firebase",
     },
     {
-      text: "Google Cloud Functions",
-      link: "/es/hosting/gcf",
-    },
-    {
       text: "Vercel",
       link: "/es/hosting/vercel",
     },
     {
-      text: "Cyclic",
-      link: "/es/hosting/cyclic",
+      text: "Zeabur (Deno)",
+      link: "/es/hosting/zeabur-deno",
     },
     {
-      text: "Servidor Privado Virtual",
-      link: "/es/hosting/vps",
+      text: "Zeabur (Node.js)",
+      link: "/es/hosting/zeabur-nodejs",
+    },
+    {
+      text: "Heroku",
+      link: "/es/hosting/heroku",
     },
   ],
 };
